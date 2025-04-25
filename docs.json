@@ -6,9 +6,9 @@
     "primary": "#ff0000"
   },
   "navigation": {
-    "tabs":[
+    "tabs": [
       {
-        "tab":"Documentação"
+        "tab": "Documentação",
         "groups": [
           {
             "group": "Introdução",
@@ -16,8 +16,8 @@
               "pages/introduction"
             ]
           }
+        ]
       }
     ]
   }
-  
 }
