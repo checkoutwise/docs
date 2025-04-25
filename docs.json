@@ -1,5 +1,23 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Wise Checkout"
+  "name": "Wise Checkout",
+  "colors": {
+    "primary": "#ff0000"
+  },
+  "navigation": {
+    "tabs":[
+      {
+        "tab":"Documentação"
+        "groups": [
+          {
+            "group": "Introdução",
+            "pages": [
+              "pages/introduction"
+            ]
+          }
+      }
+    ]
+  }
+  
 }
